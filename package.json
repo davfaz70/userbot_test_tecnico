@@ -1,0 +1,16 @@
+{
+  "name": "userbot",
+  "version": "1.0.0",
+  "description": "test tecnico",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node-dev src/index.ts"
+  },
+  "author": "Davide Fazio",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.2.2"
+  }
+}
