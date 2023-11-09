@@ -4,10 +4,7 @@
   "description": "test tecnico",
   "main": "index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "ts-node-dev src/index.ts",
-    "build": "rimraf ./dist && tsc",
-    "start": "npm run build && node dist/index.js"
+    "start": "npx ts-node src/index.ts"
   },
   "author": "Davide Fazio",
   "license": "ISC",

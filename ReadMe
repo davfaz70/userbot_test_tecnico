@@ -1,0 +1,5 @@
+Basta semplicemente dare il comando:
+
+docker compose -f compose.dev.yaml up
+
+All'interno della directory dove si trova il Dockerfile ed il gioco è fatto!
